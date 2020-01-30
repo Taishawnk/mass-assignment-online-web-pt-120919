@@ -7,3 +7,6 @@ class Person
     end
   end
 end
+
+#def initialize(data)
+#data.each do |key,value| self.send see notebook notes 
